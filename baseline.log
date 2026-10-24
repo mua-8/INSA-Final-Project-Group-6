@@ -1,0 +1,5 @@
+Oct 24 08:00:11 web01 sshd[2101]: Accepted publickey for alice from 10.0.0.5 port 51234 ssh2: RSA SHA256:abc
+Oct 24 08:45:30 web01 sshd[2150]: Failed password for alice from 10.0.0.5 port 51300 ssh2
+Oct 24 08:45:36 web01 sshd[2150]: Accepted password for alice from 10.0.0.5 port 51302 ssh2
+Oct 24 09:10:02 web01 sshd[2200]: Disconnected from user alice 10.0.0.5 port 51234
+Oct 24 09:12:44 web01 CRON[2210]: pam_unix(cron:session): session opened for user root
